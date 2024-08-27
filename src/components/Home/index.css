@@ -1,0 +1,17 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-image {
+  height: 50%;
+  margin: 30px;
+}
+
+.home {
+  font-size: 34px;
+  color: #6d396b;
+  font-family: 'Roboto';
+  text-align: center;
+}
